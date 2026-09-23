@@ -1,0 +1,13 @@
+# Build output (Eclipse compiles to build/classes)
+build/
+bin/
+target/
+*.class
+*.war
+*.jar
+
+# IDE / OS
+.metadata/
+*.log
+.DS_Store
+Thumbs.db
